@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "usr_101",
+    "language": "EN",
+    "notificationsEnabled": false,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-08T10:37:36.109Z",
+    "updatedAt": "2026-09-08T10:47:08.361Z"
+  },
+  {
+    "userId": "usr_104442",
+    "language": "UR",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-08T13:02:30.505Z",
+    "updatedAt": "2026-09-08T13:02:30.505Z"
+  },
+  {
+    "userId": "usr_1045442",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Karachi",
+    "createdAt": "2026-09-08T13:05:18.446Z",
+    "updatedAt": "2026-09-08T13:05:18.446Z"
+  }
+]
